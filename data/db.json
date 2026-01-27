@@ -1,0 +1,349 @@
+{
+  "users": [
+    {
+      "id": "8f12",
+      "name": "Mohit",
+      "email": "mohitadvani0504@gmail.com",
+      "password": "$2b$10$dOSabrByZDxRRM4VzOxWyujHPQThLW904KFzNutjpkgANwBX0EwQq",
+      "role": "customer",
+      "upiId": "mohit@upi",
+      "isLogin": true
+    },
+    {
+      "id": "56c0",
+      "name": "mohit",
+      "email": "mohitadvani0504@gmail.com",
+      "password": "$2b$10$M.jse/BdD7YlzI6oF.Q4GejTKug9ltx/8QGminPZY.awYVyYu8c4e",
+      "role": "farmer",
+      "farmSize": "147",
+      "cropType": "wheat",
+      "location": "Mumbai"
+    }
+  ],
+  "courses": [
+    {
+      "id": "1",
+      "title": "Introduction to Organic Farming",
+      " description": "Learn the basics of organic farming, including soil health, crop rotation, and organic pest management.",
+      "image": "https://placehold.co/1080x720/FFDDC1/000000?text=Organic+Farming",
+      "thumbnail": "https://placehold.co/50x50/FFDDC1/000000?text=Leaf",
+      "duration": "4 weeks",
+      "level": "Beginner",
+      "price": 0,
+      "playlist": [
+        {
+          "id": 1,
+          "title": "Soil Health Basics",
+          "videoUrl": "https://www.youtube.com/watch?v=WhOrIUlrnPo&pp=ygUeb3JnYW5pYyBmYXJtaW5nIGFuaW1hdGVkIHZpZGVv",
+          "isLocked": false
+        },
+        {
+          "id": 2,
+          "title": "Crop Rotation Techniques",
+          "videoUrl": "https://www.youtube.com/watch?v=WhOrIUlrnPo&pp=ygUeb3JnYW5pYyBmYXJtaW5nIGFuaW1hdGVkIHZpZGVv",
+          "isLocked": true
+        },
+        {
+          "id": 3,
+          "title": "Organic Pest Management 101",
+          "videoUrl": "https://www.youtube.com/watch?v=WhOrIUlrnPo&pp=ygUeb3JnYW5pYyBmYXJtaW5nIGFuaW1hdGVkIHZpZGVv",
+          "isLocked": true
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Advanced Organic Farming Techniques",
+      " description": "Deep dive into advanced techniques for organic farming, including permaculture, agroecology, and integrated pest management.",
+      "image": "https://placehold.co/1080x720/9BBAF5/000000?text=Advanced+Farming",
+      "thumbnail": "https://placehold.co/50x50/9BBAF5/000000?text=Tools",
+      "duration": "6 weeks",
+      "level": "Advanced",
+      "price": 7500,
+      "playlist": [
+        {
+          "id": 1,
+          "title": "Permaculture Basics",
+          "videoUrl": "https://www.youtube.com/watch?v=WhOrIUlrnPo&pp=ygUeb3JnYW5pYyBmYXJtaW5nIGFuaW1hdGVkIHZpZGVv",
+          "isLocked": false
+        },
+        {
+          "id": 2,
+          "title": "Agroecology Principles",
+          "videoUrl": "https://www.youtube.com/watch?v=WhOrIUlrnPo&pp=ygUeb3JnYW5pYyBmYXJtaW5nIGFuaW1hdGVkIHZpZGVv",
+          "isLocked": true
+        },
+        {
+          "id": 3,
+          "title": "Integrated Pest Management",
+          "videoUrl": "https://www.youtube.com/watch?v=WhOrIUlrnPo&pp=ygUeb3JnYW5pYyBmYXJtaW5nIGFuaW1hdGVkIHZpZGVv",
+          "isLocked": true
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Organic Gardening at Home",
+      " description": "Start your own organic garden at home with easy-to-follow methods for growing healthy and sustainable crops.",
+      "image": "https://placehold.co/1080x720/7CC576/000000?text=Home+Gardening",
+      "thumbnail": "https://placehold.co/50x50/7CC576/000000?text=Pot",
+      "duration": "3 weeks",
+      "level": "Beginner",
+      "price": 0,
+      "playlist": [
+        {
+          "id": 1,
+          "title": "Planning Your Organic Garden",
+          "videoUrl": "https://www.youtube.com/watch?v=WhOrIUlrnPo&pp=ygUeb3JnYW5pYyBmYXJtaW5nIGFuaW1hdGVkIHZpZGVv",
+          "isLocked": false
+        },
+        {
+          "id": 2,
+          "title": "Soil Preparation for Gardens",
+          "videoUrl": "https://www.youtube.com/watch?v=WhOrIUlrnPo&pp=ygUeb3JnYW5pYyBmYXJtaW5nIGFuaW1hdGVkIHZpZGVv",
+          "isLocked": true
+        },
+        {
+          "id": 3,
+          "title": "Planting Vegetables and Herbs",
+          "videoUrl": "https://www.youtube.com/watch?v=WhOrIUlrnPo&pp=ygUeb3JnYW5pYyBmYXJtaW5nIGFuaW1hdGVkIHZpZGVv",
+          "isLocked": true
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "title": "Soil Health and Composting",
+      " description": "Master the art of maintaining healthy soil, composting techniques, and building a sustainable ecosystem for your farm.",
+      "image": "https://placehold.co/1080x720/FF9A8B/000000?text=Soil+Health",
+      "thumbnail": "https://placehold.co/50x50/FF9A8B/000000?text=Soil",
+      "duration": "5 weeks",
+      "level": "Intermediate",
+      "price": 7500,
+      "playlist": [
+        {
+          "id": 1,
+          "title": "Composting 101",
+          "videoUrl": "https://www.youtube.com/watch?v=WhOrIUlrnPo&pp=ygUeb3JnYW5pYyBmYXJtaW5nIGFuaW1hdGVkIHZpZGVv",
+          "isLocked": false
+        },
+        {
+          "id": 2,
+          "title": "Healthy Soil Techniques",
+          "videoUrl": "https://www.youtube.com/watch?v=WhOrIUlrnPo&pp=ygUeb3JnYW5pYyBmYXJtaW5nIGFuaW1hdGVkIHZpZGVv",
+          "isLocked": true
+        },
+        {
+          "id": 3,
+          "title": "Building Fertile Soil",
+          "videoUrl": "https://www.youtube.com/watch?v=WhOrIUlrnPo&pp=ygUeb3JnYW5pYyBmYXJtaW5nIGFuaW1hdGVk IHZpZGVv",
+          "isLocked": true
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "title": "Permaculture Design and Implementation",
+      " description": "Learn the principles of permaculture and how to implement a sustainable, self-sufficient farming system on your land.",
+      "image": "https://placehold.co/1080x720/8E7CFF/000000?text=Permaculture+Design",
+      "thumbnail": "https://placehold.co/50x50/8E7CFF/000000?text=Tree",
+      "duration": "8 weeks",
+      "level": "Advanced",
+      "price": 7500,
+      "playlist": [
+        {
+          "id": 1,
+          "title": "Introduction to Permaculture",
+          "videoUrl": "https://www.youtube.com/watch?v=WhOrIUlrnPo&pp=ygUeb3JnYW5pYyBmYXJtaW5nIGFuaW1hdGVkIHZpZGVv",
+          "isLocked": false
+        },
+        {
+          "id": 2,
+          "title": "Designing Your Permaculture System",
+          "videoUrl": "https://www.youtube.com/watch?v=WhOrIUlrnPo&pp=ygUeb3JnYW5pYyBmYXJtaW5nIGFuaW1hdGVk IHZpZGVv",
+          "isLocked": true
+        },
+        {
+          "id": 3,
+          "title": "Implementing Sustainable Practices",
+          "videoUrl": "https://www.youtube.com/watch?v=WhOrIUlrnPo&pp=ygUeb3JnYW5pYyBmYXJtaW5nIGFuaW1hdGVk IHZpZGVv",
+          "isLocked": true
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "title": "Agroecology: Farming for Sustainability",
+      " description": "Understand the relationship between ecology and farming to create an environmentally sustainable agricultural system.",
+      "image": "https://placehold.co/1080x720/62E6B7/000000?text=Agroecology",
+      "thumbnail": "https://placehold.co/50x50/62E6B7/000000?text=Earth",
+      "duration": "6 weeks",
+      "level": "Intermediate",
+      "price": 7500,
+      "playlist": [
+        {
+          "id": 1,
+          "title": "What is Agroecology?",
+          "videoUrl": "https://www.youtube.com/watch?v=WhOrIUlrnPo&pp=ygUeb3JnYW5pYyBmYXJtaW5nIGFuaW1hdGVk IHZpZGVv",
+          "isLocked": false
+        },
+        {
+          "id": 2,
+          "title": "Principles of Sustainable Farming",
+          "videoUrl": "https://www.youtube.com/watch?v=WhOrIUlrnPo&pp=ygUeb3JnYW5pYyBmYXJtaW5nIGFuaW1hdGVk IHZpZGVv",
+          "isLocked": true
+        },
+        {
+          "id": 3,
+          "title": "Agroecology for Future Farms",
+          "videoUrl": "https://www.youtube.com/watch?v=WhOrIUlrnPo&pp=ygUeb3JnYW5pYyBmYXJtaW5nIGFuaW1hdGVk IHZpZGVv",
+          "isLocked": true
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "title": "Organic Pest Management",
+      " description": "Learn natural and organic methods of pest control, including companion planting, organic pesticides, and biological control.",
+      "image": "https://placehold.co/1080x720/FFC45C/000000?text=Organic+Pest+Management",
+      "thumbnail": "https://placehold.co/50x50/FFC45C/000000?text=Bug",
+      "duration": "4 weeks",
+      "level": "Beginner",
+      "price": 0,
+      "playlist": [
+        {
+          "id": 1,
+          "title": "Natural Pest Control Techniques",
+          "videoUrl": "https://www.youtube.com/watch?v=WhOrIUlrnPo&pp=ygUeb3JnYW5pYyBmYXJtaW5nIGFuaW1hdGVk IHZpZGVv",
+          "isLocked": false
+        },
+        {
+          "id": 2,
+          "title": "Organic Pesticides and Repellents",
+          "videoUrl": "https://www.youtube.com/watch?v=WhOrIUlrnPo&pp=ygUeb3JnYW5pYyBmYXJtaW5n IGFuaW1hdGVkIHZpZGVv",
+          "isLocked": true
+        },
+        {
+          "id": 3,
+          "title": "Companion Planting for Pest Control",
+          "videoUrl": "https://www.youtube.com/watch?v=WhOrIUlrnPo&pp=ygUeb3JnYW5pYyBmYXJtaW5n IGFuaW1hdGVk IHZpZGVv",
+          "isLocked": true
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "title": "Urban Organic Farming",
+      " description": "Grow organic crops in urban spaces with techniques for container gardening, rooftop farming, and small-space gardening.",
+      "image": "https://placehold.co/1080x720/F2D652/000000?text=Urban+Farming",
+      "thumbnail": "https://placehold.co/50x50/F2D652/000000?text=City",
+      "duration": "4 weeks",
+      "level": "Beginner",
+      "price": 0,
+      "playlist": [
+        {
+          "id": 1,
+          "title": "Urban Gardening Basics",
+          "videoUrl": "https://www.youtube.com/watch?v=WhOrIUlrnPo&pp=ygUeb3JnYW5pYyBmYXJtaW5nIGFuaW1hdGVk IHZpZGVv",
+          "isLocked": false
+        },
+        {
+          "id": 2,
+          "title": "Container Gardening for Beginners",
+          "videoUrl": "https://www.youtube.com/watch?v=WhOrIUlrnPo&pp=ygUeb3JnYW5pYyBmYXJtaW5n IGFuaW1hdGVk IHZpZGVv",
+          "isLocked": true
+        },
+        {
+          "id": 3,
+          "title": "Vertical Farming Techniques",
+          "videoUrl": "https://www.youtube.com/watch?v=WhOrIUlrnPo&pp=ygUeb3JnYW5pYyBmYXJtaW5n IGFuaW1hdGVk IHZpZGVv",
+          "isLocked": true
+        }
+      ]
+    },
+    {
+      "id": "9",
+      "title": "Building a Sustainable Farm Business",
+      " description": "Learn how to run a profitable organic farm, from business planning and marketing to finance and farm management.",
+      "image": "https://placehold.co/1080x720/E1C6E2/000000?text=Farm+Business",
+      "thumbnail": "https://placehold.co/50x50/E1C6E2/000000?text=Business",
+      "duration": "6 weeks",
+      "level": "Advanced",
+      "price": 7500,
+      "playlist": [
+        {
+          "id": 1,
+          "title": "Introduction to Sustainable Farm Business",
+          "videoUrl": "https://www.youtube.com/watch?v=WhOrIUlrnPo&pp=ygUeb3JnYW5pYyBmYXJtaW5nIGFuaW1hdGVk IHZpZGVv",
+          "isLocked": false
+        },
+        {
+          "id": 2,
+          "title": "Farm Management Essentials",
+          "videoUrl": "https://www.youtube.com/watch?v=WhOrIUlrnPo&pp=ygUeb3JnYW5pYyBmYXJtaW5n IGFuaW1hdGVk IHZpZGVv",
+          "isLocked": true
+        },
+        {
+          "id": 3,
+          "title": "Marketing Your Farm Products",
+          "videoUrl": "https://www.youtube.com/watch?v=WhOrIUlrnPo&pp=ygUeb3JnYW5pYyBmYXJtaW5n IGFuaW1hdGVk IHZpZGVv",
+          "isLocked": true
+        }
+      ]
+    },
+    {
+      "id": "10",
+      "title": "Organic Seed Saving and Breeding",
+      " description": "Master the techniques for saving and breeding your own organic seeds to ensure sustainable crop production year after year.",
+      "image": "https://placehold.co/1080x720/F6D8A3/000000?text=Seed+Saving",
+      "thumbnail": "https://placehold.co/50x50/F6D8A3/000000?text=Seed",
+      "duration": "5 weeks",
+      "level": "Intermediate",
+      "price": 7500,
+      "playlist": [
+        {
+          "id": 1,
+          "title": "Seed Saving Basics",
+          "videoUrl": "https://www.youtube.com/watch?v=WhOrIUlrnPo&pp=ygUeb3JnYW5pYyBmYXJtaW5nIGFuaW1hdGVk IHZpZGVv",
+          "isLocked": false
+        },
+        {
+          "id": 2,
+          "title": "Breeding Your Own Seeds",
+          "videoUrl": "https://www.youtube.com/watch?v=WhOrIUlrnPo&pp=ygUeb3JnYW5pYyBmYXJtaW5n IGFuaW1hdGVk IHZpZGVv",
+          "isLocked": true
+        },
+        {
+          "id": 3,
+          "title": "Maintaining Genetic Diversity",
+          "videoUrl": "https://www.youtube.com/watch?v=WhOrIUlrnPo&pp=ygUeb3JnYW5pYyBmYXJtaW5n IGFuaW1hdGVk IHZpZGVv",
+          "isLocked": true
+        }
+      ]
+    }
+  ],
+  "enrollments": [
+    {
+      "id": "0347",
+      "user": {
+        "name": "mohit",
+        "email": "mohitadvani0504@gmail.com"
+      },
+      "courseId": "2",
+      "courseTitle": "Advanced Organic Farming Techniques",
+      "paymentMethod": "upi",
+      "paymentDetails": "abcd@gmail.com"
+    },
+    {
+      "id": "9fd5",
+      "user": {
+        "name": "mohit",
+        "email": "mohitadvani0504@gmail.com"
+      },
+      "courseId": "1",
+      "courseTitle": "Introduction to Organic Farming",
+      "paymentMethod": "upi",
+      "paymentDetails": "abcd@gmail.com"
+    }
+  ]
+}
