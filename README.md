@@ -30,9 +30,7 @@ In traditional agricultural supply chains:
 
 * **Frontend:** HTML, CSS, JavaScript
 * **Backend:** Node.js, Express.js
-* **Database:** MongoDB / MySQL
-* **Payment Gateway:** Razorpay / Stripe *(optional)*
-* **Authentication:** JWT / Session-based login
+* **Database:** MySQL
 * **Tools:** Git, GitHub
 
 
@@ -94,7 +92,7 @@ SwachhHarvest/
 ### 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/VESIT-CMPN-Projects/2024-25-TE34.git
+git clone https://github.com/SwachHarvest.git
 ```
 
 
@@ -102,7 +100,7 @@ git clone https://github.com/VESIT-CMPN-Projects/2024-25-TE34.git
 ### 2️⃣ Go to Project Directory
 
 ```bash
-cd 2024-25-TE34/SwachhHarvest
+cd SwachHarvest
 ```
 
 ---
@@ -133,27 +131,6 @@ node server.js
 ```
 http://localhost:3000
 ```
-
-
-
-
-## 📚 Academic Information
-
-* **Institute:** Vivekanand Education Society’s Institute of Technology
-* **Branch:** Computer Engineering
-* **Class:** Third Year (TE)
-* **Batch:** 2024–2025
-* **Division:** TE-34
-
-
-## 🌟 Future Enhancements
-
-* 📱 Mobile application (Android / iOS)
-* 🤖 AI-based crop recommendation system
-* 🔍 Organic certification verification using blockchain
-* 🚚 Real-time delivery tracking
-* ⭐ Farmer rating & review system
-* 🌦️ Weather-based crop insights
 
 
 ## 🌿 Tagline
