@@ -1,0 +1,112 @@
+[
+    {
+      "state": "Tamil Nadu",
+      "organic_farming_percentage": 1.28,
+      "coordinates": [78.387451, 11.059821]
+    },
+    {
+      "state": "Telangana",
+      "organic_farming_percentage": 1.07,
+      "coordinates": [79.208824, 17.123184]
+    },
+    {
+      "state": "Madhya Pradesh",
+      "organic_farming_percentage": 10.95,
+      "coordinates": [77.947998, 23.473324]
+    },
+    {
+      "state": "Haryana",
+      "organic_farming_percentage": 0.10,
+      "coordinates": [76.431885, 29.238478]
+    },
+    {
+      "state": "Chhattisgarh",
+      "organic_farming_percentage": 2.73,
+      "coordinates": [81.828232, 21.295132]
+    },
+    {
+      "state": "Haryana (second entry)",
+      "organic_farming_percentage": 0.10,
+      "coordinates": [76.040497, 29.065773]
+    },
+    {
+      "state": "Bhitarwar, Madhya Pradesh",
+      "organic_farming_percentage": 10.95,
+      "coordinates": [78.116531, 25.794033]
+    },
+    {
+      "state": "Maharashtra",
+      "organic_farming_percentage": 6.72,
+      "coordinates": [75.552979, 19.601194]
+    },
+    {
+      "state": "Tripura",
+      "organic_farming_percentage": 5.13,
+      "coordinates": [91.746826, 23.745127]
+    },
+    {
+      "state": "Chandoor, Telangana",
+      "organic_farming_percentage": 1.07,
+      "coordinates": [78.100815, 17.874857]
+    },
+    {
+      "state": "Karnataka",
+      "organic_farming_percentage": 1.17,
+      "coordinates": [75.713890, 15.317277]
+    },
+    {
+      "state": "Kerala",
+      "organic_farming_percentage": 6.86,
+      "coordinates": [76.271080, 10.850516]
+    },
+    {
+      "state": "Uttar Pradesh",
+      "organic_farming_percentage": 0.90,
+      "coordinates": [79.826660, 28.207609]
+    },
+    {
+      "state": "Assam",
+      "organic_farming_percentage": 0.80,
+      "coordinates": [92.537842, 26.244156]
+    },
+    {
+      "state": "Maharashtra (second entry)",
+      "organic_farming_percentage": 6.72,
+      "coordinates": [75.300293, 19.663280]
+    },
+    {
+      "state": "Tamil Nadu (second entry)",
+      "organic_farming_percentage": 1.28,
+      "coordinates": [78.656891, 11.127123]
+    },
+    {
+      "state": "Karnataka (second entry)",
+      "organic_farming_percentage": 1.17,
+      "coordinates": [75.713890, 15.317277]
+    },
+    {
+      "state": "West Bengal",
+      "organic_farming_percentage": 0.18,
+      "coordinates": [87.747803, 22.978624]
+    },
+    {
+      "state": "Gujarat",
+      "organic_farming_percentage": 5.87,
+      "coordinates": [72.136230, 22.309425]
+    },
+    {
+      "state": "Odisha",
+      "organic_farming_percentage": 5.01,
+      "coordinates": [84.803467, 20.940920]
+    },
+    {
+      "state": "Rajasthan",
+      "organic_farming_percentage": 3.35,
+      "coordinates": [73.432617, 27.391277]
+    },
+    {
+      "state": "Himachal Pradesh",
+      "organic_farming_percentage": 5.25,
+      "coordinates": [77.571167, 32.084206]
+    }
+]

@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+main {
+    min-height: 83vmin;
+    padding-top: 10px;
+    padding-bottom: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+    min-width: 100%;
+    max-width:max-content;
+    overflow: hidden;
+}
